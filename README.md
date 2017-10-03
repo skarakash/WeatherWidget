@@ -1,6 +1,6 @@
 # WeatherWidget
 
-Expected result:
+###Expected result:
 ![result](https://github.com/gronus/WeatherWidget/blob/master/public/WeatherWidget_with_React.gif)
 
 1. Fork this repo
