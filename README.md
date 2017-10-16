@@ -8,3 +8,5 @@
 3. Connect Components together without using State managers
 4. Use http://apidev.accuweather.com/developers/samples to fetch data
 5. Improve code as you wish
+
+!!! Register at https://developer.accuweather.com/ to get API key, copy and paste it in config.js file
